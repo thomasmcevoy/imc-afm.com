@@ -18,11 +18,6 @@ nav {
   color: #eee;
 }
 
-.navbar-brand {
-  font: normal 100 2rem/3rem "avalon book", avalon, futura, "sans serif";
-  color: inherit;
-}
-
 .nav-link {
   color: #999;
   text-decoration: none;
