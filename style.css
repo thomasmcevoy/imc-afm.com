@@ -33,9 +33,18 @@ main {
   max-width: 42rem;
 }
 
-blockquote {
+/* .blockquote {
   margin: auto;
-  max-width: 34rem;
+  max-width: 37rem;
+  font-size: 107%;
+  font-style: italic;
+} */
+
+#five-solutions > li {
+  /* margin-top: 1.5rem; */
+}
+#five-solutions > li::marker {
+  font-size: calc(1.375rem + .5vw);
 }
 
 footer {
