@@ -47,6 +47,11 @@ main {
   font-size: calc(1.375rem + .5vw);
 }
 
+.name {
+  font-size: 150%;
+  font-style: italic;
+  font-weight: 200;
+}
 footer {
   font-size: .75em;
   font-style: italic;
