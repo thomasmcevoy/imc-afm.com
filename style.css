@@ -13,6 +13,7 @@ header {
   height: 11rem;
   object-fit: contain;
 }
+
 nav {
   background-color: #222;
   color: #eee;
@@ -24,6 +25,7 @@ nav {
   letter-spacing: .066rem;
   line-height: 2rem;
 }
+
 .nav-link.active {
   color: white;
 }
@@ -47,7 +49,7 @@ main {
 /* #five-solutions > li {
   margin-top: 1.5rem;
 } */
-#five-solutions > li::marker {
+#five-solutions>li::marker {
   font-size: calc(1.375rem + .5vw);
 }
 
@@ -56,7 +58,12 @@ main {
   font-style: italic;
   font-weight: 200;
 }
+
 footer {
   font-size: .75em;
   font-style: italic;
+}
+
+.obf {
+  display: none
 }
