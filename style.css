@@ -67,3 +67,8 @@ footer {
 .obf {
   display: none
 }
+
+ul li::marker {
+  content: '• ';
+  font-size: 1.5em;
+}
