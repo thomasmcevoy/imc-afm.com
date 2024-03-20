@@ -1,6 +1,6 @@
 {
   "name": "Indie Musicians Caucus Website",
-  "homepage": "https://thomasmcevoy.github.io/imc-afm-website/",
+  "homepage": "https://imc-afm.com/",
   "scripts": {
     "deploy": "gh-pages -d ."
   },
